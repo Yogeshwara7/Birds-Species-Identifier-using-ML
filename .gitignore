@@ -41,3 +41,7 @@ build/
 *.ckpt
 *.h5
 *.weights 
+models/best_model_weights
+models/
+*.h5
+*.pt
