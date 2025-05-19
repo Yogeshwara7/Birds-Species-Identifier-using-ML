@@ -1,0 +1,43 @@
+# Python virtual environment
+birdenv/
+venv/
+env/
+
+# Dataset files
+*.tgz
+*.zip
+*.tar.gz
+data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Installers
+*.exe
+*.msi
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.weights 
