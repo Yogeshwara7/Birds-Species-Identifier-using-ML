@@ -7,4 +7,6 @@ numpy>=1.24.0
 scikit-learn>=1.2.0
 opencv-python>=4.7.0
 tqdm>=4.65.0
-joblib>=1.2.0 
+joblib>=1.2.0
+scikit-image>=0.20.0
+pandas>=1.5.0 
