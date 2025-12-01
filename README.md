@@ -2,16 +2,6 @@
 
 An image-based bird species identification system using multiple machine learning models including Vision Transformer (ViT), EfficientNet CNN, and Random Forest for accurate species classification.
 
-## Features
-
-- 🎯 Upload bird images for instant species identification
-- 🤖 Multiple model options: ViT, EfficientNet-B3 CNN, and Random Forest
-- 📊 High accuracy predictions with confidence scores
-- 🖥️ User-friendly Streamlit web interface
-- 🐦 Support for 7 bird species (expandable to 200)
-- 🔧 Model training and fine-tuning capability
-- 💾 Memory-optimized for Windows systems
-
 ## Installation
 
 1. Clone this repository:
